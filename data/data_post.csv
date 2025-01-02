@@ -1,0 +1,601 @@
+postal_code,label_en,label_dk
+1000-1499,Copenhagen K,København K
+1500-1799,Copenhagen V,København V
+1800-1999,Frederiksberg C,Frederiksberg C
+2000,Frederiksberg,Frederiksberg
+2100,Copenhagen Ø,København Ø
+2150,Nordhavn,Nordhavn
+2200,Copenhagen N,København N
+2300,Copenhagen S,København S
+2400,Copenhagen NV,København NV
+2450,Copenhagen SV,København SV
+2500,Valby,Valby
+2600,Glostrup,Glostrup
+2605,Brøndby,Brøndby
+2610,Rødovre,Rødovre
+2620,Albertslund,Albertslund
+2625,Vallensbæk,Vallensbæk
+2630,Taastrup,Taastrup
+2633,Taastrup Nordsjællands Postcenter,Taastrup Nordsjællands Postcenter
+2635,Ishøj,Ishøj
+2640,Hedehusene,Hedehusene
+2650,Hvidovre,Hvidovre
+2660,Brøndby Strand,Brøndby Strand
+2665,Vallensbæk Strand,Vallensbæk Strand
+2670,Greve,Greve
+2680,Solrød Strand,Solrød Strand
+2690,Karlslunde,Karlslunde
+2700,Brønshøj,Brønshøj
+2720,Vanløse,Vanløse
+2730,Herlev,Herlev
+2740,Skovlunde,Skovlunde
+2750,Ballerup,Ballerup
+2760,Måløv,Måløv
+2765,Smørum,Smørum
+2770,Kastrup,Kastrup
+2791,Dragør,Dragør
+2800,Kongens Lyngby,Kongens Lyngby
+2820,Gentofte,Gentofte
+2830,Virum,Virum
+2840,Holte,Holte
+2850,Nærum,Nærum
+2860,Søborg,Søborg
+2870,Dyssegård,Dyssegård
+2880,Bagsværd,Bagsværd
+2900,Hellerup,Hellerup
+2920,Charlottenlund,Charlottenlund
+2930,Klampenborg,Klampenborg
+2942,Skodsborg,Skodsborg
+2950,Vedbæk,Vedbæk
+2960,Rungsted Kyst,Rungsted Kyst
+2970,Hørsholm,Hørsholm
+2980,Kokkedal,Kokkedal
+2990,Nivå,Nivå
+3000,Helsingør,Helsingør
+3050,Humlebæk,Humlebæk
+3060,Espergærde,Espergærde
+3070,Snekkersten,Snekkersten
+3080,Tikøb,Tikøb
+3100,Hornbæk,Hornbæk
+3120,Dronningmølle,Dronningmølle
+3140,Ålsgårde,Ålsgårde
+3150,Hellebæk,Hellebæk
+3200,Helsinge,Helsinge
+3210,Vejby,Vejby
+3220,Tisvildeleje,Tisvildeleje
+3230,Græsted,Græsted
+3250,Gilleleje,Gilleleje
+3300,Frederiksværk,Frederiksværk
+3310,Ølsted,Ølsted
+3320,Skævinge,Skævinge
+3330,Gørløse,Gørløse
+3360,Liseleje,Liseleje
+3370,Melby,Melby
+3390,Hundested,Hundested
+3400,Hillerød,Hillerød
+3450,Allerød,Allerød
+3460,Birkerød,Birkerød
+3480,Fredensborg,Fredensborg
+3490,Kvistgård,Kvistgård
+3500,Værløse,Værløse
+3520,Farum,Farum
+3540,Lynge,Lynge
+3550,Slangerup,Slangerup
+3600,Frederikssund,Frederikssund
+3630,Jægerspris,Jægerspris
+3650,Ølstykke,Ølstykke
+3660,Stenløse,Stenløse
+3670,Veksø Sjælland,Veksø Sjælland
+3700,Rønne,Rønne
+3720,Aakirkeby,Aakirkeby
+3730,Nexø,Nexø
+3740,Svaneke,Svaneke
+3751,Østermarie,Østermarie
+3760,Gudhjem,Gudhjem
+3770,Allinge,Allinge
+3782,Klemensker,Klemensker
+3790,Hasle,Hasle
+4000,Roskilde,Roskilde
+4030,Tune,Tune
+4040,Jyllinge,Jyllinge
+4050,Skibby,Skibby
+4060,Kirke Såby,Kirke Såby
+4070,Kirke Hyllinge,Kirke Hyllinge
+4100,Ringsted,Ringsted
+4105,Ringsted Midtsjællands Postcenter,Ringsted Midtsjællands Postcenter
+4130,Viby Sjælland,Viby Sjælland
+4140,Borup,Borup
+4160,Herlufmagle,Herlufmagle
+4171,Glumsø,Glumsø
+4173,Fjenneslev,Fjenneslev
+4174,Jystrup Midtsjælland,Jystrup Midtsjælland
+4180,Sorø,Sorø
+4190,Munke Bjergby,Munke Bjergby
+4200,Slagelse,Slagelse
+4220,Korsør,Korsør
+4230,Skælskør,Skælskør
+4241,Vemmelev,Vemmelev
+4242,Boeslunde,Boeslunde
+4243,Rude,Rude
+4250,Fuglebjerg,Fuglebjerg
+4261,Dalmose,Dalmose
+4262,Sandved,Sandved
+4270,Høng,Høng
+4281,Gørlev,Gørlev
+4291,Ruds Vedby,Ruds Vedby
+4293,Dianalund,Dianalund
+4295,Stenlille,Stenlille
+4296,Nyrup,Nyrup
+4300,Holbæk,Holbæk
+4320,Lejre,Lejre
+4330,Hvalsø,Hvalsø
+4340,Tølløse,Tølløse
+4350,Ugerløse,Ugerløse
+4360,Kirke Eskilstrup,Kirke Eskilstrup
+4370,Store Merløse,Store Merløse
+4390,Vipperød,Vipperød
+4400,Kalundborg,Kalundborg
+4420,Regstrup,Regstrup
+4440,Mørkøv,Mørkøv
+4450,Jyderup,Jyderup
+4460,Snertinge,Snertinge
+4470,Svebølle,Svebølle
+4480,Store Fuglede,Store Fuglede
+4490,Jerslev Sjælland,Jerslev Sjælland
+4500,Nykøbing Sjælland,Nykøbing Sjælland
+4520,Svinninge,Svinninge
+4532,Gislinge,Gislinge
+4534,Hørve,Hørve
+4540,Fårevejle,Fårevejle
+4550,Asnæs,Asnæs
+4560,Vig,Vig
+4571,Grevinge,Grevinge
+4572,Nørre Asmindrup,Nørre Asmindrup
+4573,Højby,Højby
+4581,Rørvig,Rørvig
+4583,Sjællands Odde,Sjællands Odde
+4591,Føllenslev,Føllenslev
+4592,Sejerø,Sejerø
+4593,Eskebjerg,Eskebjerg
+4600,Køge,Køge
+4621,Gadstrup,Gadstrup
+4622,Havdrup,Havdrup
+4623,Lille Skensved,Lille Skensved
+4632,Bjæverskov,Bjæverskov
+4640,Fakse,Fakse
+4652,Hårlev,Hårlev
+4653,Karise,Karise
+4654,Fakse Ladeplads,Fakse Ladeplads
+4660,Store Heddinge,Store Heddinge
+4671,Strøby,Strøby
+4672,Klippinge,Klippinge
+4673,Rødvig Stevns,Rødvig Stevns
+4681,Herfølge,Herfølge
+4682,Tureby,Tureby
+4683,Rønnede,Rønnede
+4684,Holmegaard,Holmegaard
+4690,Haslev,Haslev
+4700,Næstved,Næstved
+4720,Præstø,Præstø
+4733,Tappernøje,Tappernøje
+4735,Mern,Mern
+4736,Karrebæksminde,Karrebæksminde
+4750,Lundby,Lundby
+4760,Vordingborg,Vordingborg
+4771,Kalvehave,Kalvehave
+4772,Langebæk,Langebæk
+4773,Stensved,Stensved
+4780,Stege,Stege
+4791,Borre,Borre
+4792,Askeby,Askeby
+4793,Bogø By,Bogø By
+4800,Nykøbing Falster,Nykøbing Falster
+4840,Nørre Alslev,Nørre Alslev
+4850,Stubbekøbing,Stubbekøbing
+4862,Guldborg,Guldborg
+4863,Eskilstrup,Eskilstrup
+4871,Horbelev,Horbelev
+4872,Idestrup,Idestrup
+4873,Væggerløse,Væggerløse
+4874,Gedser,Gedser
+4880,Nysted,Nysted
+4891,Toreby Lolland,Toreby Lolland
+4892,Kettinge,Kettinge
+4894,Øster Ulslev,Øster Ulslev
+4895,Errindlev,Errindlev
+4900,Nakskov,Nakskov
+4912,Harpelunde,Harpelunde
+4913,Horslunde,Horslunde
+4920,Søllested,Søllested
+4930,Maribo,Maribo
+4941,Bandholm,Bandholm
+4943,Torrig Lolland,Torrig Lolland
+4944,Fejø,Fejø
+4951,Nørreballe,Nørreballe
+4952,Stokkemarke,Stokkemarke
+4953,Vesterborg,Vesterborg
+4960,Holeby,Holeby
+4970,Rødby,Rødby
+4983,Dannemare,Dannemare
+4990,Sakskøbing,Sakskøbing
+5000,Odense C,Odense C
+5090,Odense C Fyns Postcenter,Odense C Fyns Postcenter
+5200,Odense V,Odense V
+5210,Odense NV,Odense NV
+5220,Odense SØ,Odense SØ
+5230,Odense M,Odense M
+5240,Odense NØ,Odense NØ
+5250,Odense SV,Odense SV
+5260,Odense S,Odense S
+5270,Odense N,Odense N
+5290,Marslev,Marslev
+5300,Kerteminde,Kerteminde
+5320,Agedrup,Agedrup
+5330,Munkebo,Munkebo
+5350,Rynkeby,Rynkeby
+5370,Mesinge,Mesinge
+5380,Dalby,Dalby
+5390,Martofte,Martofte
+5400,Bogense,Bogense
+5450,Otterup,Otterup
+5462,Morud,Morud
+5463,Harndrup,Harndrup
+5464,Brenderup Fyn,Brenderup Fyn
+5466,Asperup,Asperup
+5471,Søndersø,Søndersø
+5474,Veflinge,Veflinge
+5485,Skamby,Skamby
+5491,Blommenslyst,Blommenslyst
+5492,Vissenbjerg,Vissenbjerg
+5500,Middelfart,Middelfart
+5540,Ullerslev,Ullerslev
+5550,Langeskov,Langeskov
+5560,Aarup,Aarup
+5580,Nørre Aaby,Nørre Aaby
+5591,Gelsted,Gelsted
+5592,Ejby,Ejby
+5600,Faaborg,Faaborg
+5610,Assens,Assens
+5620,Glamsbjerg,Glamsbjerg
+5631,Ebberup,Ebberup
+5642,Millinge,Millinge
+5672,Broby,Broby
+5683,Haarby,Haarby
+5690,Tommerup,Tommerup
+5700,Svendborg,Svendborg
+5750,Ringe,Ringe
+5762,Vester Skerninge,Vester Skerninge
+5771,Stenstrup,Stenstrup
+5772,Kværndrup,Kværndrup
+5792,Årslev,Årslev
+5800,Nyborg,Nyborg
+5853,Ørbæk,Ørbæk
+5854,Gislev,Gislev
+5856,Ryslinge,Ryslinge
+5863,Ferritslev Fyn,Ferritslev Fyn
+5871,Frørup,Frørup
+5874,Hesselager,Hesselager
+5881,Skårup Fyn,Skårup Fyn
+5882,Vejstrup,Vejstrup
+5883,Oure,Oure
+5884,Gudme,Gudme
+5892,Gudbjerg Sydfyn,Gudbjerg Sydfyn
+5900,Rudkøbing,Rudkøbing
+5932,Humble,Humble
+5935,Bagenkop,Bagenkop
+5953,Tranekær,Tranekær
+5960,Marstal,Marstal
+5970,Ærøskøbing,Ærøskøbing
+5985,Søby Ærø,Søby Ærø
+6000,Kolding,Kolding
+6040,Egtved,Egtved
+6051,Almind,Almind
+6052,Viuf,Viuf
+6064,Jordrup,Jordrup
+6070,Christiansfeld,Christiansfeld
+6091,Bjert,Bjert
+6092,Sønder Stenderup,Sønder Stenderup
+6093,Sjølund,Sjølund
+6094,Hejls,Hejls
+6100,Haderslev,Haderslev
+6200,Aabenraa,Aabenraa
+6230,Rødekro,Rødekro
+6240,Løgumkloster,Løgumkloster
+6261,Bredebro,Bredebro
+6270,Tønder,Tønder
+6280,Højer,Højer
+6300,Gråsten,Gråsten
+6310,Broager,Broager
+6320,Egernsund,Egernsund
+6330,Padborg,Padborg
+6340,Kruså,Kruså
+6360,Tinglev,Tinglev
+6372,Bylderup-Bov,Bylderup-Bov
+6392,Bolderslev,Bolderslev
+6400,Sønderborg,Sønderborg
+6430,Nordborg,Nordborg
+6440,Augustenborg,Augustenborg
+6470,Sydals,Sydals
+6500,Vojens,Vojens
+6510,Gram,Gram
+6520,Toftlund,Toftlund
+6534,Agerskov,Agerskov
+6535,Branderup Jylland,Branderup Jylland
+6541,Bevtoft,Bevtoft
+6560,Sommersted,Sommersted
+6580,Vamdrup,Vamdrup
+6600,Vejen,Vejen
+6621,Gesten,Gesten
+6622,Bække,Bække
+6623,Vorbasse,Vorbasse
+6630,Rødding,Rødding
+6640,Lunderskov,Lunderskov
+6650,Brørup,Brørup
+6660,Lintrup,Lintrup
+6670,Holsted,Holsted
+6682,Hovborg,Hovborg
+6683,Føvling,Føvling
+6690,Gørding,Gørding
+6700,Esbjerg,Esbjerg
+6705,Esbjerg Ø,Esbjerg Ø
+6710,Esbjerg V,Esbjerg V
+6715,Esbjerg N,Esbjerg N
+6720,Fanø,Fanø
+6731,Tjæreborg,Tjæreborg
+6740,Bramming,Bramming
+6752,Glejbjerg,Glejbjerg
+6753,Agerbæk,Agerbæk
+6760,Ribe,Ribe
+6771,Gredstedbro,Gredstedbro
+6780,Skærbæk,Skærbæk
+6792,Rømø,Rømø
+6800,Varde,Varde
+6818,Årre,Årre
+6823,Ansager,Ansager
+6830,Nørre Nebel,Nørre Nebel
+6840,Oksbøl,Oksbøl
+6851,Janderup Vestjylland,Janderup Vestjylland
+6852,Billum,Billum
+6853,Vejers Strand,Vejers Strand
+6854,Henne,Henne
+6855,Outrup,Outrup
+6857,Blåvand,Blåvand
+6862,Tistrup,Tistrup
+6870,Ølgod,Ølgod
+6880,Tarm,Tarm
+6893,Hemmet,Hemmet
+6900,Skjern,Skjern
+6920,Videbæk,Videbæk
+6933,Kibæk,Kibæk
+6940,Lem St.,Lem St.
+6950,Ringkøbing,Ringkøbing
+6960,Hvide Sande,Hvide Sande
+6971,Spjald,Spjald
+6973,Ørnhøj,Ørnhøj
+6980,Tim,Tim
+6990,Ulfborg,Ulfborg
+7000,Fredericia,Fredericia
+7007,Fredericia Sydjyllands Postcenter,Fredericia Sydjyllands Postcenter
+7080,Børkop,Børkop
+7100,Vejle,Vejle
+7120,Vejle Øst,Vejle Øst
+7130,Juelsminde,Juelsminde
+7140,Stouby,Stouby
+7150,Barrit,Barrit
+7160,Tørring,Tørring
+7171,Uldum,Uldum
+7173,Vonge,Vonge
+7182,Bredsten,Bredsten
+7183,Randbøl,Randbøl
+7184,Vandel,Vandel
+7190,Billund,Billund
+7200,Grindsted,Grindsted
+7250,Hejnsvig,Hejnsvig
+7260,Sønder Omme,Sønder Omme
+7270,Stakroge,Stakroge
+7280,Sønder Felding,Sønder Felding
+7300,Jelling,Jelling
+7321,Gadbjerg,Gadbjerg
+7323,Give,Give
+7330,Brande,Brande
+7361,Ejstrupholm,Ejstrupholm
+7362,Hampen,Hampen
+7400,Herning,Herning
+7401,Herning Vestjyllands Postcenter,Herning Vestjyllands Postcenter
+7430,Ikast,Ikast
+7441,Bording,Bording
+7442,Engesvang,Engesvang
+7451,Sunds,Sunds
+7470,Karup Jylland,Karup Jylland
+7480,Vildbjerg,Vildbjerg
+7490,Aulum,Aulum
+7500,Holstebro,Holstebro
+7540,Haderup,Haderup
+7550,Sørvad,Sørvad
+7560,Hjerm,Hjerm
+7570,Vemb,Vemb
+7600,Struer,Struer
+7620,Lemvig,Lemvig
+7650,Bøvlingbjerg,Bøvlingbjerg
+7660,Bækmarksbro,Bækmarksbro
+7673,Harboøre,Harboøre
+7680,Thyborøn,Thyborøn
+7700,Thisted,Thisted
+7730,Hanstholm,Hanstholm
+7741,Frøstrup,Frøstrup
+7742,Vesløs,Vesløs
+7752,Snedsted,Snedsted
+7755,Bedsted Thy,Bedsted Thy
+7760,Hurup Thy,Hurup Thy
+7770,Vestervig,Vestervig
+7790,Thyholm,Thyholm
+7800,Skive,Skive
+7830,Vinderup,Vinderup
+7840,Højslev,Højslev
+7850,Stoholm Jylland,Stoholm Jylland
+7860,Spøttrup,Spøttrup
+7870,Roslev,Roslev
+7884,Fur,Fur
+7900,Nykøbing Mors,Nykøbing Mors
+7950,Erslev,Erslev
+7960,Karby,Karby
+7970,Redsted Mors,Redsted Mors
+7980,Vils,Vils
+7990,Øster Assels,Øster Assels
+8000,Århus C,Århus C
+8011,Århus C Østjyllands Postcenter,Århus C Østjyllands Postcenter
+8200,Århus N,Århus N
+8210,Århus V,Århus V
+8220,Brabrand,Brabrand
+8230,Åbyhøj,Åbyhøj
+8240,Risskov,Risskov
+8245,Risskov Ø Østjyllands Postcenter,Risskov Ø Østjyllands Postcenter
+8250,Egå,Egå
+8260,Viby Jylland,Viby Jylland
+8270,Højbjerg,Højbjerg
+8300,Odder,Odder
+8305,Samsø,Samsø
+8310,Tranbjerg Jylland,Tranbjerg Jylland
+8320,Mårslet,Mårslet
+8330,Beder,Beder
+8340,Malling,Malling
+8350,Hundslund,Hundslund
+8355,Solbjerg,Solbjerg
+8361,Hasselager,Hasselager
+8362,Hørning,Hørning
+8370,Hadsten,Hadsten
+8380,Trige,Trige
+8381,Tilst,Tilst
+8382,Hinnerup,Hinnerup
+8400,Ebeltoft,Ebeltoft
+8410,Rønde,Rønde
+8420,Knebel,Knebel
+8444,Balle,Balle
+8450,Hammel,Hammel
+8462,Harlev Jylland,Harlev Jylland
+8464,Galten,Galten
+8471,Sabro,Sabro
+8472,Sporup,Sporup
+8500,Grenaa,Grenaa
+8520,Lystrup,Lystrup
+8530,Hjortshøj,Hjortshøj
+8541,Skødstrup,Skødstrup
+8543,Hornslet,Hornslet
+8544,Mørke,Mørke
+8550,Ryomgård,Ryomgård
+8560,Kolind,Kolind
+8570,Trustrup,Trustrup
+8581,Nimtofte,Nimtofte
+8585,Glesborg,Glesborg
+8586,Ørum Djurs,Ørum Djurs
+8592,Anholt,Anholt
+8600,Silkeborg,Silkeborg
+8620,Kjellerup,Kjellerup
+8632,Lemming,Lemming
+8641,Sorring,Sorring
+8643,Ans By,Ans By
+8653,Them,Them
+8654,Bryrup,Bryrup
+8660,Skanderborg,Skanderborg
+8670,Låsby,Låsby
+8680,Ry,Ry
+8700,Horsens,Horsens
+8721,Daugård,Daugård
+8722,Hedensted,Hedensted
+8723,Løsning,Løsning
+8732,Hovedgård,Hovedgård
+8740,Brædstrup,Brædstrup
+8751,Gedved,Gedved
+8752,Østbirk,Østbirk
+8762,Flemming,Flemming
+8763,Rask Mølle,Rask Mølle
+8765,Klovborg,Klovborg
+8766,Nørre Snede,Nørre Snede
+8781,Stenderup,Stenderup
+8783,Hornsyld,Hornsyld
+8800,Viborg,Viborg
+8830,Tjele,Tjele
+8831,Løgstrup,Løgstrup
+8832,Skals,Skals
+8840,Rødkærsbro,Rødkærsbro
+8850,Bjerringbro,Bjerringbro
+8860,Ulstrup,Ulstrup
+8870,Langå,Langå
+8881,Thorsø,Thorsø
+8882,Fårvang,Fårvang
+8883,Gjern,Gjern
+8900,Randers,Randers
+8920,Randers NV,Randers NV
+8930,Randers NØ,Randers NØ
+8940,Randers SV,Randers SV
+8950,Ørsted,Ørsted
+8960,Randers SØ,Randers SØ
+8961,Allingåbro,Allingåbro
+8963,Auning,Auning
+8970,Havndal,Havndal
+8981,Spentrup,Spentrup
+8983,Gjerlev Jylland,Gjerlev Jylland
+8990,Fårup,Fårup
+9000,Aalborg,Aalborg
+9020,Aalborg Nordjyllands Postcenter,Aalborg Nordjyllands Postcenter
+9200,Aalborg SV,Aalborg SV
+9210,Aalborg SØ,Aalborg SØ
+9220,Aalborg Øst,Aalborg Øst
+9230,Svenstrup Jylland,Svenstrup Jylland
+9240,Nibe,Nibe
+9260,Gistrup,Gistrup
+9270,Klarup,Klarup
+9280,Storvorde,Storvorde
+9293,Kongerslev,Kongerslev
+9300,Sæby,Sæby
+9310,Vodskov,Vodskov
+9320,Hjallerup,Hjallerup
+9330,Dronninglund,Dronninglund
+9340,Asaa,Asaa
+9352,Dybvad,Dybvad
+9362,Gandrup,Gandrup
+9370,Hals,Hals
+9380,Vestbjerg,Vestbjerg
+9381,Sulsted,Sulsted
+9382,Tylstrup,Tylstrup
+9400,Nørresundby,Nørresundby
+9430,Vadum,Vadum
+9440,Aabybro,Aabybro
+9460,Brovst,Brovst
+9480,Løkken,Løkken
+9490,Pandrup,Pandrup
+9492,Blokhus,Blokhus
+9493,Saltum,Saltum
+9500,Hobro,Hobro
+9510,Arden,Arden
+9520,Skørping,Skørping
+9530,Støvring,Støvring
+9541,Suldrup,Suldrup
+9550,Mariager,Mariager
+9560,Hadsund,Hadsund
+9574,Bælum,Bælum
+9575,Terndrup,Terndrup
+9600,Aars,Aars
+9610,Nørager,Nørager
+9620,Aalestrup,Aalestrup
+9631,Gedsted,Gedsted
+9632,Møldrup,Møldrup
+9640,Farsø,Farsø
+9670,Løgstør,Løgstør
+9681,Ranum,Ranum
+9690,Fjerritslev,Fjerritslev
+9700,Brønderslev,Brønderslev
+9740,Jerslev Jylland,Jerslev Jylland
+9750,Østervrå,Østervrå
+9760,Vrå,Vrå
+9800,Hjørring,Hjørring
+9830,Tårs,Tårs
+9850,Hirtshals,Hirtshals
+9870,Sindal,Sindal
+9881,Bindslev,Bindslev
+9900,Frederikshavn,Frederikshavn
+9940,Læsø,Læsø
+9970,Strandby,Strandby
+9981,Jerup,Jerup
+9982,Ålbæk,Ålbæk
+9990,Skagen,Skagen

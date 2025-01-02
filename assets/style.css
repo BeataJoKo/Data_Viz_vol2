@@ -1,0 +1,379 @@
+
+* {
+    box-sizing: border-box;
+    font-family: "Alegreya";
+    color: #5A002C;
+    margin: 0;
+    padding: 0;
+    }
+
+body {
+    /* color: #FFD700; */
+    background-color: #f2f2f2;
+    }
+    
+button {
+    width: 70%;
+    height: auto;
+    padding: 0.8rem 0;
+    margin: auto;
+    border: 2px solid #5A002C;
+    background: white;
+    font-weight: bold;
+    font-size: 1rem;
+    }
+    
+button:hover{
+    background: rgba(56 ,62, 66, 0.2);
+    }
+    
+.hidden{
+    display: none;
+}
+   
+   
+/* ################### title ########################*/   
+   
+    
+#title {
+    width: auto;
+    height: auto;
+    display: grid;
+    grid-template-columns: .70fr .30fr;
+    grid-template-rows: auto;
+    grid-template-areas:
+    "tit1 tit2"
+    "tit1 tit3";
+    }
+    
+h1 {
+    font-size: 6rem;
+    text-align: center;
+    align-self: center;
+    grid-area: tit1;
+    }
+    
+#title > h4 {
+    font-size: 1.4rem;
+    font-weight: normal;
+    text-align: left;
+    align-self: end;
+    grid-area: tit2;
+    }
+    
+#title > h6 {
+    font-size: 1.2rem;
+    font-weight: normal;
+    text-align: left;
+    align-self: beggin;
+    grid-area: tit3;
+    }   
+ 
+ 
+/* ################### nav ########################*/ 
+
+
+#nav {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    width: auto;
+    height: auto;
+    display: grid;
+    grid-template-columns: .06fr .24fr .24fr .06fr .40fr;
+    grid-template-rows: auto;
+    grid-template-areas:
+    ". nav1 nav3 nav5 nav6"
+    ". nav2 nav4 nav5 nav6";
+    background-color: #f2f2f2;
+    z-index: 3;
+    }
+    
+#nav > label:nth-child(1) {
+    grid-area: nav1;
+    }
+       
+#nav > label:nth-child(2) {
+    grid-area: nav3;
+    }
+    
+#map_type {
+    width: 80%;
+    grid-area: nav2;
+    }
+       
+#map_category {
+    width: 80%;
+    grid-area: nav4;
+    }
+    
+#nav > button {
+    grid-area: nav5;
+    }
+    
+#museum {
+    grid-area: nav6;
+    align-self: center;
+}
+
+#museum > h3 {
+    font-size: 1.6rem;
+    text-align: center;
+    }
+
+
+/* ################### info-graphs ########################*/
+
+   
+#info_graphs {
+    width: auto;
+    height: auto;
+    display: grid;
+    grid-template-columns: .10fr .10fr .10fr .10fr .10fr .10fr .10fr .10fr .10fr .10fr;
+    grid-template-rows: auto;
+    grid-template-areas:
+    "top1 top1 top1 top1 top1 top1 top2 top2 top2 top2"
+    "mid1 mid1 mid1 mid1 mid1 mid1 mid2 mid2 mid2 mid2"
+    "bot1 bot1 bot1 bot1 bot1 bot2 bot2 bot2 bot2 bot2";
+    } 
+ 
+   
+/* ################### top ########################*/   
+     
+   
+/* ################### map ########################*/   
+   
+      
+#map_container {
+    grid-area: top1;
+    width: auto;
+    height: auto;
+    }
+
+#map_chart {
+    height: 20rem;
+    padding: 0.5rem 2rem;
+    }
+ 
+    
+/* ################### iframe ########################*/   
+   
+      
+#myframe {
+    grid-area: top2;
+    width: auto;
+    height: auto;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    grid-template-areas:
+    "mus1"
+    "mus2";
+    }
+    
+#myframe > h5 {
+    font-size: 1.2rem;
+    text-align: center;
+    align-self: center;
+    grid-area: mus1;
+    }
+    
+#myframe > iframe {
+    height: 15rem;
+    width: 100%;
+    padding: 0.5rem 2rem;
+    border: 0px solid red;
+    justify-self: center;
+    align-self: center;
+    grid-area: mus2;
+    } 
+
+   
+/* ################### middle ########################*/   
+  
+  
+/* ################### corona ########################*/
+    
+    
+#corona_container {
+    grid-area: mid1;
+    width: auto;
+    height: auto;
+    display: grid;
+    padding: 1rem 2rem;
+    grid-template-columns: .25fr .25fr .25fr .25fr;
+    grid-template-rows: auto;
+    grid-template-areas:
+    ". cor1 cor1 ."
+    "cor2 cor3 cor4 cor5"
+    "cor6 cor6 cor6 cor6";
+    }
+    
+#corona_container > h4 {
+    font-size: 1rem;
+    font-weight: normal;
+    text-align: center;
+    align-self: center;
+    grid-area: cor1;
+    }
+    
+#corona_container > label:nth-child(2) {
+    justify-self: right;
+    align-self: center;
+    margin-right: 1rem;
+    grid-area: cor2;
+    }
+    
+#corona_container > label:nth-child(3) {
+    justify-self: right;
+    align-self: center;
+    margin-right: 1rem;
+    grid-area: cor4;
+    }
+    
+#corona_map {
+  width: 80%;
+  grid-area: cor3;
+    }
+       
+#corona_map_2 {
+    width: 80%;
+    grid-area: cor5;
+    }
+    
+#scatterplot_corona {
+    height: 30rem;
+    padding: 1rem 0rem;
+    grid-area: cor6;
+    }  
+   
+    
+/* ################### bar ########################*/   
+   
+  
+#bar_container {
+    grid-area: mid2;
+    width: auto;
+    height: auto;
+    padding: 0.5rem 1rem;
+    display: grid;
+    grid-template-columns: .75fr .25fr;
+    grid-template-rows: auto;
+    grid-template-areas:
+    ". bar1"
+    "bar2 bar2"
+    "bar3 bar3"
+    "bar4 bar4";
+    }
+    
+#bar_container > button {
+    align-self: end;
+    grid-area: bar1;
+    }
+    
+#bar_visit {
+    height: 14rem;
+    padding: 1rem;
+    align-self: end;
+    grid-area: bar2;
+    }
+    
+#time_slider {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 15px;
+    background-color: #f2f2f2;
+    width: 90%;
+    padding: 1rem;
+    margin-left: 1rem;
+    justify-self: center;
+    align-self: begin;
+    grid-area: bar3;
+    z-index: 4;
+    }
+
+#time_slider .rc-slider-track {
+/*  background-color: indigo; */
+  background: rgb(89,0,43);
+}
+
+
+/* ################### distribution ########################*/
+
+
+#distribution {
+    height: 14rem;
+    padding: 1rem;
+    grid-area: bar4;
+    }   
+
+ 
+/* ################### bottom ########################*/      
+
+
+/* ################### sankey ########################*/  
+    
+    
+#sanky_teaching {
+    width: 90%;
+    height: 25rem;
+    justify-self: center;
+    align-self: center;
+    padding: 0.5rem 2rem 2rem 2rem;
+    grid-area: bot1;
+    }
+    
+    
+/* ################### population ########################*/    
+
+
+#pop_graph {
+    width: 90%;
+    height: 25rem;
+    justify-self: center;
+    align-self: center;
+    padding: 0.5rem 2rem 2rem 1rem;
+    grid-area: bot2;
+    }
+           
+   
+/* ################### footer ########################*/   
+   
+   
+#footer {
+    width: auto;
+    height: auto;
+    display: grid;
+    padding: 2rem 0rem 1rem 0rem;
+    grid-template-columns: .10 .40fr .50fr;
+    grid-template-rows: auto;
+    grid-template-areas:
+    "foot1 foot2 foot6"
+    "foot3 foot4 foot6";
+    } 
+    
+#footer p{
+    color: rgba(56,62,66,1);
+    }
+    
+p:nth-child(1) {
+    text-align: center;
+    grid-area: foot1;
+    }
+p:nth-child(2) {
+    text-align: left;
+    grid-area: foot2;
+    }
+p:nth-child(3) {
+    text-align: center;
+    grid-area: foot3;
+    }
+p:nth-child(4) {
+    text-align: left;
+    grid-area: foot4;
+    }
+p:nth-child(5) {
+    text-align: left;
+    align-self: center;
+    grid-area: foot6;
+    }

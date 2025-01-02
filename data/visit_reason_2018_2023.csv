@@ -1,0 +1,85 @@
+Sex,Category,Age,2018,2019,2020,2021,2022,2023
+Men,To see the building,16-24,6.0,8.0,1.0,2.0,2.0,3.0
+Men,To see the building,25-34,8.0,10.0,3.0,2.0,3.0,3.0
+Men,To see the building,35-44,9.0,11.0,4.0,3.0,3.0,4.0
+Men,To see the building,45-54,8.0,10.0,2.0,3.0,3.0,4.0
+Men,To see the building,55-64,6.0,10.0,2.0,2.0,1.0,3.0
+Men,To see the building,65-74,7.0,11.0,2.0,2.0,2.0,3.0
+Men,To see the building,+75,4.0,7.0,1.0,3.0,2.0,2.0
+Men,Exhibition,16-24,16.0,12.0,15.0,17.0,20.0,24.0
+Men,Exhibition,25-34,17.0,13.0,12.0,19.0,24.0,21.0
+Men,Exhibition,35-44,17.0,12.0,10.0,18.0,19.0,20.0
+Men,Exhibition,45-54,16.0,14.0,12.0,16.0,17.0,20.0
+Men,Exhibition,55-64,22.0,13.0,11.0,15.0,17.0,19.0
+Men,Exhibition,65-74,22.0,17.0,14.0,18.0,21.0,21.0
+Men,Exhibition,+75,19.0,15.0,12.0,17.0,21.0,21.0
+Men,Lecture or concert,16-24,1.0,1.0,0.0,0.0,1.0,0.0
+Men,Lecture or concert,25-34,1.0,1.0,0.0,1.0,0.0,0.0
+Men,Lecture or concert,35-44,1.0,0.0,0.0,0.0,0.0,0.0
+Men,Lecture or concert,45-54,1.0,0.0,0.0,0.0,1.0,0.0
+Men,Lecture or concert,55-64,1.0,1.0,0.0,0.0,0.0,0.0
+Men,Lecture or concert,65-74,2.0,1.0,0.0,0.0,0.0,0.0
+Men,Lecture or concert,+75,2.0,1.0,0.0,1.0,1.0,0.0
+Men,Conference or private event,16-24,3.0,2.0,0.0,0.0,0.0,4.0
+Men,Conference or private event,25-34,2.0,2.0,0.0,0.0,0.0,2.0
+Men,Conference or private event,35-44,1.0,2.0,0.0,1.0,1.0,2.0
+Men,Conference or private event,45-54,2.0,2.0,0.0,0.0,1.0,1.0
+Men,Conference or private event,55-64,1.0,2.0,0.0,0.0,0.0,1.0
+Men,Conference or private event,65-74,2.0,2.0,0.0,0.0,0.0,2.0
+Men,Conference or private event,+75,1.0,2.0,0.0,0.0,0.0,2.0
+Men,Cafe or restaurant,16-24,0.0,0.0,0.0,1.0,1.0,0.0
+Men,Cafe or restaurant,25-34,1.0,1.0,0.0,0.0,0.0,0.0
+Men,Cafe or restaurant,35-44,1.0,1.0,1.0,0.0,0.0,0.0
+Men,Cafe or restaurant,45-54,1.0,1.0,0.0,1.0,0.0,0.0
+Men,Cafe or restaurant,55-64,1.0,1.0,0.0,0.0,0.0,0.0
+Men,Cafe or restaurant,65-74,1.0,0.0,0.0,0.0,1.0,0.0
+Men,Cafe or restaurant,+75,1.0,1.0,0.0,0.0,1.0,0.0
+Men,Other,16-24,5.0,4.0,3.0,4.0,4.0,0.0
+Men,Other,25-34,4.0,4.0,2.0,2.0,1.0,0.0
+Men,Other,35-44,4.0,4.0,2.0,2.0,2.0,0.0
+Men,Other,45-54,3.0,2.0,1.0,1.0,2.0,0.0
+Men,Other,55-64,3.0,2.0,1.0,2.0,1.0,0.0
+Men,Other,65-74,3.0,2.0,1.0,1.0,2.0,0.0
+Men,Other,+75,1.0,2.0,1.0,1.0,2.0,0.0
+Women,To see the building,16-24,8.0,10.0,2.0,4.0,2.0,3.0
+Women,To see the building,25-34,9.0,11.0,3.0,4.0,3.0,3.0
+Women,To see the building,35-44,8.0,11.0,2.0,3.0,2.0,4.0
+Women,To see the building,45-54,8.0,12.0,2.0,3.0,3.0,4.0
+Women,To see the building,55-64,6.0,11.0,2.0,3.0,2.0,3.0
+Women,To see the building,65-74,6.0,8.0,1.0,2.0,2.0,3.0
+Women,To see the building,+75,3.0,4.0,1.0,1.0,1.0,2.0
+Women,Exhibition,16-24,25.0,20.0,18.0,26.0,31.0,32.0
+Women,Exhibition,25-34,23.0,19.0,16.0,23.0,24.0,29.0
+Women,Exhibition,35-44,20.0,17.0,15.0,20.0,24.0,26.0
+Women,Exhibition,45-54,22.0,17.0,14.0,23.0,24.0,26.0
+Women,Exhibition,55-64,28.0,20.0,14.0,23.0,25.0,25.0
+Women,Exhibition,65-74,31.0,24.0,14.0,26.0,28.0,29.0
+Women,Exhibition,+75,25.0,17.0,12.0,17.0,26.0,27.0
+Women,Lecture or concert,16-24,0.0,1.0,0.0,0.0,1.0,0.0
+Women,Lecture or concert,25-34,0.0,0.0,0.0,0.0,0.0,0.0
+Women,Lecture or concert,35-44,1.0,1.0,0.0,0.0,0.0,2.0
+Women,Lecture or concert,45-54,1.0,1.0,0.0,0.0,0.0,0.0
+Women,Lecture or concert,55-64,2.0,1.0,0.0,0.0,1.0,0.0
+Women,Lecture or concert,65-74,2.0,1.0,0.0,1.0,1.0,2.0
+Women,Lecture or concert,+75,2.0,1.0,0.0,0.0,1.0,0.0
+Women,Conference or private event,16-24,1.0,1.0,0.0,1.0,1.0,4.0
+Women,Conference or private event,25-34,2.0,1.0,0.0,0.0,0.0,2.0
+Women,Conference or private event,35-44,2.0,2.0,0.0,0.0,0.0,2.0
+Women,Conference or private event,45-54,2.0,1.0,0.0,1.0,0.0,1.0
+Women,Conference or private event,55-64,3.0,2.0,0.0,0.0,0.0,1.0
+Women,Conference or private event,65-74,3.0,3.0,0.0,0.0,0.0,2.0
+Women,Conference or private event,+75,2.0,1.0,0.0,0.0,0.0,2.0
+Women,Cafe or restaurant,16-24,0.0,1.0,1.0,0.0,0.0,0.0
+Women,Cafe or restaurant,25-34,1.0,1.0,1.0,0.0,1.0,0.0
+Women,Cafe or restaurant,35-44,0.0,1.0,0.0,0.0,0.0,0.0
+Women,Cafe or restaurant,45-54,0.0,1.0,0.0,0.0,0.0,0.0
+Women,Cafe or restaurant,55-64,1.0,1.0,0.0,0.0,1.0,0.0
+Women,Cafe or restaurant,65-74,1.0,1.0,0.0,1.0,0.0,0.0
+Women,Cafe or restaurant,+75,2.0,1.0,0.0,0.0,1.0,0.0
+Women,Other,16-24,4.0,3.0,4.0,5.0,3.0,0.0
+Women,Other,25-34,2.0,2.0,1.0,2.0,4.0,0.0
+Women,Other,35-44,4.0,3.0,1.0,3.0,2.0,0.0
+Women,Other,45-54,3.0,2.0,1.0,1.0,1.0,0.0
+Women,Other,55-64,3.0,2.0,1.0,1.0,1.0,0.0
+Women,Other,65-74,2.0,2.0,1.0,1.0,1.0,0.0
+Women,Other,+75,2.0,1.0,1.0,1.0,0.0,0.0
